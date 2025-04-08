@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&display=swap');
+
+h1{
+    color:#EF6024 ;
+}
+
+h2{
+    color:#F0941F ;
+}
+
+h3{
+    color:#90A19D ;
+}
+
+
+p{
+    color: #196774;
+}
+
+body{
+    font-family: "Bungee Tint", sans-serif;
+    background-color:#363432 ;
+}
+
+
+section{
+    text-align: center;
+}
+
+img{
+    
+}
